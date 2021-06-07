@@ -16,6 +16,7 @@ print("Introdução à linguagem R")
 # Como chamar um pacote instalado
 library(caret)
 
+## Ajuda
 help(setwd)
 ?library
 
